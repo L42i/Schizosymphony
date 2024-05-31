@@ -1,4 +1,6 @@
 # Schizosymphony
+
+## Sound Link
 [![Shizosymphony (2024)](https://img.youtube.com/vi/un1yZxA48wM/0.jpg)](https://www.youtube.com/watch?v=un1yZxA48wM)
 
 ## Data and Data Preprocessing
