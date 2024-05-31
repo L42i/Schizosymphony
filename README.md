@@ -1,5 +1,5 @@
 # Schizosymphony
-[![Shizosymphony (2024)]](https://youtu.be/un1yZxA48wM)
+[![Shizosymphony (2024)](https://img.youtube.com/vi/un1yZxA48wM/0.jpg)](https://www.youtube.com/watch?v=un1yZxA48wM)
 
 ## Data and Data Preprocessing
 The functional magnetic resonance imaging (fMRI) data from the Function Biomedical Informatics Research Network (FBIRN) dataset were processed with the [NeuroMark](https://www.sciencedirect.com/science/article/pii/S2213158220302126) pipeline. Subject-specific functional components and corresponding time courses were then estimated using the spatial constrained ICA. Four postprocessing steps were performed on the extracted time courses, including detrending, removing head motions, dispiking, and filtering with 0.15Hz low-pass filter. The FNC matrix was subsequently computed as the Pearson correlation between the paired time courses of 53 intrinsic connectivity networks (ICNs), leading to a matrix with size 53x53. These 53 ICNs were assigned to 7 functional domains including the subcortical (SC), auditory (AU), sensorimotor (SM), visual (VI), cognitive control (CC), default mode (DM) and cerebellar (CB) domains. The dynamic functional network connectivity (dFNC) data were estimated using a graphical LASSO method on the windowed data. The window width covered 20 TRs with a step size of 1 TR, resulting in 137 windows in the FBIRN dFNC data.
