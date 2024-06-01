@@ -1,4 +1,5 @@
 # Schizosymphony
+Schizosymphony is an artistic composition that intricately weaves urban soundscapes into a unified auditory experience. This piece sonifies a narrative soundscape by assigning distinct audio elements to 53 Intrinsic Connectivity Networks (ICNs), organized according to the primary categories mapped to 7 Functional Domains (FDs). This method creates a cohesive urban landscape, capturing moments from daily life typically encountered by a patient and merging them into a singular sound scene.
 
 ## Sound Link
 [![Shizosymphony (2024)](https://img.youtube.com/vi/un1yZxA48wM/0.jpg)](https://www.youtube.com/watch?v=un1yZxA48wM)
@@ -24,11 +25,6 @@ The functional magnetic resonance imaging (fMRI) data from the Function Biomedic
 ## Scripts
 
 [load_dfnc.ipynb](load_dfnc.ipynb) is a Python script to load and visualize the dFNC data.
-
-## Documents
-[Georgia Tech S.A.W. 2024 Document](https://docs.google.com/document/d/10lzfJmFucl341rtTUpNijfQZ5F1DF2OhxqVxM9AQB9Y/edit?usp=sharing)
-
-[OHBM 2024 BrainArt Exhibition Proposal](https://docs.google.com/document/d/1YaN2wlQmluxbHWdqqnBTnhmyaJEggCaikvZsjQ0geTE/edit?usp=sharing)
 
 ## References
 
